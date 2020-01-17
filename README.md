@@ -10,16 +10,16 @@ The test approach and documentation thereof follows the Behaviour Driven Develop
 1. Navigate to the Hotel Booking URL
 2. Verify that the correct landing page is displayed
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 #### TEST CASE 002: The intrepid adventurer is able to view existing booking records
 1. Given you have navigated to the Hotel Booking URL
 2. When the correct landing page is displayed
 3. Then you should see a list of existing bookings
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 #### TEST CASE 003: The intrepid adventurer is able to create a new booking record
 1. Given you have navigated to the Hotel Booking URL
@@ -28,15 +28,15 @@ The test approach and documentation thereof follows the Behaviour Driven Develop
 4. When you click "Save"
 5. Then your new record is persisted to the list of records
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 #### TEST CASE 004: The intrepid adventurer is able to remove their booking record
 1. Given you have navigated to the Hotel Booking URL
 2. When the correct landing page is displayed
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 #### TEST CASE 005: The intrepid adventurer is able to edit an existing booking record
 1. Given you have navigated to the Hotel Booking URL
@@ -45,16 +45,16 @@ The test approach and documentation thereof follows the Behaviour Driven Develop
 4. When you click "Save"
 5. Then your new record is persisted to the list of records
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 #### TEST CASE 006: The intrepid adventurer ascertains whether the hotel's site is secure
 1. Given you have navigated to the Hotel Booking URL
 2. When the correct landing page is displayed
 3. Then verify that the website has a valid SSL certificate
 
--EXPECTED RESULT:
--ACTUAL RESULT:
+- EXPECTED RESULT:
+- ACTUAL RESULT:
 
 ##### Notes
 A traditional test case would look like the following:
