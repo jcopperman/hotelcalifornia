@@ -1,7 +1,7 @@
 # Project: hotelcalifornia
 This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel
 
-## PART 1
+## PART 1: Manual test approach
 
 ### Summary
 The test approach and documentation thereof follows the Behaviour Driven Development (BDD) design pattern which aims to provide clarity in adherence with the Product Owner and/or Stakeholder requirements which should be easily followed by a developer and software quality analyst in implementation and testing.
@@ -34,4 +34,5 @@ The test approach and documentation thereof follows the Behaviour Driven Develop
 #### Considerations
 As this web app is hosted for the purpose of assessments no load/performance testing was performed
 
-## PART 2
+## PART 2: Automation with .NET
+
