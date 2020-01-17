@@ -1,2 +1,2 @@
 # hotelcalifornia
-This repository is a story about an intrepid adventure that seeks to uncover the secrets of a fictitious hotel
+This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel
