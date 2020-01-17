@@ -1,6 +1,9 @@
 # Project: hotelcalifornia
 This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel
 
+## Summary
+The test approach and documentation thereof follows the Behaviour Driven Design pattern which aims to provide clarity in adherence with the Product Owner and/or Stakeholder requirements which should be easily followed by a developer and software quality analyst in implementation and testing.
+
 ### TEST CASE 001: The intrepid adventurer is able to find the hotel's homepage
 1. Navigate to the Hotel Booking URL
 2. Verify that the correct landing page is displayed
