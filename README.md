@@ -20,3 +20,11 @@ This repository is a story about an intrepid adventurer who seeks to uncover the
 ### TEST CASE 004: The intrepid adventurer is able to remove their booking record
 1. Given you have navigated to the Hotel Booking URL
 2. When the correct landing page is displayed
+
+### TEST CASE 005: The intrepid adventure ascertains whether the hotel's site is secure
+1. Given you have navigated to the Hotel Booking URL
+2. When the correct landing page is displayed
+3. Then verify that the website has a valid SSL certificate
+
+## Considerations
+As this web app is hosted for the purpose of assessments no load/performance testing was performed
