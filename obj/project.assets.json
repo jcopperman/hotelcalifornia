@@ -5164,11 +5164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\hotelcalifornia\\HotelBookingTests\\HotelBookingTests.csproj",
+      "projectUniqueName": "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj",
       "projectName": "HotelBookingTests",
-      "projectPath": "C:\\Dev\\hotelcalifornia\\HotelBookingTests\\HotelBookingTests.csproj",
+      "projectPath": "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj",
       "packagesPath": "C:\\Users\\outeniquastudios\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\hotelcalifornia\\HotelBookingTests\\obj\\",
+      "outputPath": "C:\\Dev\\hotelcalifornia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
