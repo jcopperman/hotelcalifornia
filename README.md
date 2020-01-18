@@ -1,4 +1,4 @@
-https://travis-ci.com/jcopperman/hotelcalifornia.svg?branch=master
+[![Build Status](https://travis-ci.com/jcopperman/hotelcalifornia.svg?branch=master)](https://travis-ci.com/jcopperman/hotelcalifornia)
 
 # Project: hotelcalifornia
 This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel
