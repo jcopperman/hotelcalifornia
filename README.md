@@ -1,12 +1,14 @@
 [![Build Status](https://travis-ci.com/jcopperman/hotelcalifornia.svg?branch=master)](https://travis-ci.com/jcopperman/hotelcalifornia)
 
 # Project: hotelcalifornia
-This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel
+This repository is a story about an intrepid adventurer who seeks to uncover the secrets of a fictitious hotel by testing and flexing it's booking system.
+
+> Warning: You can check-out anytime you like but you can never leave.
 
 ## PART 1: Manual test approach
 
 ### Summary
-The test approach and documentation thereof follows the Behaviour Driven Development (BDD) design pattern which aims to provide clarity in adherence with the Product Owner and/or Stakeholder requirements which should be easily followed by a developer and software quality analyst in implementation and testing. The following test cases are intended to cover testing for basic CRUD (Create, Read, Update & Delete) functionality and form validation.
+The test approach and documentation thereof follows the Behaviour Driven Development (BDD) design pattern which aims to provide clarity in adherence with the Product Owner and/or Stakeholder requirements which should be easily followed by a developer and software quality analyst in implementation and testing. The following test cases are intended to cover testing for basic CRUD operations (Create, Read, Update & Delete) and form validation.
 
 #### Considerations
 As this web app is hosted for the purpose of assessments no load/performance testing was performed
