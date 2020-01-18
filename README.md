@@ -35,7 +35,7 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 4. When you click "Save"
 5. Then your new record is persisted to the list of records
 
-- **EXPECTED RESULT:** A new booking recorded is persisted to the list
+- **EXPECTED RESULT:** A new booking record is persisted to the list
 - **ACTUAL RESULT:** As expected
 
 #### TEST CASE 004: The intrepid adventurer is able to remove their booking record
@@ -91,7 +91,7 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 3. Then verify that the website has a valid SSL certificate
 
 - **EXPECTED RESULT:** The browser indicates the site is secure with a padlock and the url contains HTTPS
-- **ACTUAL RESULT:** The broswer indicates that the site is not secure and the url contains HTTP
+- **ACTUAL RESULT:** The browser indicates that the site is not secure and the url contains HTTP
 
 
 ## PART 2: Test Automation with .NET
