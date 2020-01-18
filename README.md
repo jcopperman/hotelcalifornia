@@ -97,6 +97,6 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 ## PART 2: Test Automation with .NET
 
 ### Automation Summary
-Technology: .NET Core project using NUnit and running on Travis CI
+Technology: .NET Core project using NUnit and Selenium Webdriver which is deployed through Travis CI
 
 
