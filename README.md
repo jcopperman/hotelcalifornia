@@ -35,15 +35,15 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 4. When you click "Save"
 5. Then your new record is persisted to the list of records
 
-- **EXPECTED RESULT:**
-- **ACTUAL RESULT:**
+- **EXPECTED RESULT:** A new booking recorded is persisted to the list
+- **ACTUAL RESULT:** As expected
 
 #### TEST CASE 004: The intrepid adventurer is able to remove their booking record
 1. Given you have navigated to the Hotel Booking URL
 2. When the correct landing page is displayed
 
-- **EXPECTED RESULT:**
-- **ACTUAL RESULT:**
+- **EXPECTED RESULT:** An existing record is successfully removed from the list
+- **ACTUAL RESULT:** As expected
 
 #### TEST CASE 005: The intrepid adventurer is able to edit an existing booking record
 1. Given you have navigated to the Hotel Booking URL
@@ -52,8 +52,8 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 4. When you click "Save"
 5. Then your new record is persisted to the list of records
 
-- **EXPECTED RESULT:**
-- **ACTUAL RESULT:**
+- **EXPECTED RESULT:** An existing record is updated successfully
+- **ACTUAL RESULT:** As expected
 
 #### TEST CASE 006: The intrepid adventurer is not able to add a blank record
 1. Given you have navigated to the Hotel Booking URL
@@ -94,6 +94,9 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 - **ACTUAL RESULT:** The broswer indicates that the site is not secure and the url contains HTTP
 
 
-
 ## PART 2: Test Automation with .NET
+
+### Automation Summary
+Technology: .NET Core project using NUnit and running on Travis CI
+
 
