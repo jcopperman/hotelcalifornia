@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Threading;
 
@@ -36,12 +37,15 @@ namespace HotelBookingTests
             IWebElement lastname = _driver.FindElement(By.Id("lastname"));
             IWebElement totalprice = _driver.FindElement(By.Id("totalprice"));
             IWebElement depositpaid = _driver.FindElement(By.Id("depositpaid"));
+            var selectElement = new SelectElement(depositpaid);
             IWebElement checkin = _driver.FindElement(By.Id("checkin"));
             IWebElement checkout = _driver.FindElement(By.Id("checkout"));
             IWebElement savebutton = _driver.FindElement(By.CssSelector("#form > div:nth-child(1) > div:nth-child(7) > input:nth-child(1)"));
             firstname.SendKeys("Doctor");
             lastname.SendKeys("Who");
             totalprice.SendKeys("1000");
+            //deposit
+            selectElement.SelectByText("false");
             checkin.SendKeys("2020-12-25");
             checkout.SendKeys("2020-12-25");
             savebutton.Click();
@@ -52,6 +56,7 @@ namespace HotelBookingTests
         [Test]
         public void Test_Case_004_DeleteExistingBookingRecord()
         {
+            //TODO: Find the row ID create by the create function to determine which delete button corresponds. 
             NavigatetToTheHomepage();
             Assert.Pass();
         }

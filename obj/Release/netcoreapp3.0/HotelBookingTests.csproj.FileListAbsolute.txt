@@ -91,3 +91,4 @@ C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.AssemblyInfo.
 C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.csproj.CopyComplete
 C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.dll
 C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.pdb
+C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\WebDriver.Support.dll

@@ -1,8 +1,8 @@
 language: csharp
 solution: HotelBookingTests.sln
 before_install:
-  - sudo apt-get install nunit3-console
+  - sudo apt-get install nunit-console
 before_script:
   - nuget restore HotelBookingTests.sln
 after_script:
-  - nunit3-console ./bin/Release/netcoreapp3.0/HotelBookingTests.dll
+  - nunit-console HotelBookingTests.dll
