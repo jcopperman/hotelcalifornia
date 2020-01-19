@@ -1,7 +1,7 @@
 language: csharp
 solution: HotelBookingTests.sln
 before_install:
-  - sudo apt-get install nunit-console
+  - sudo apt-get install nunit3-console
 before_script:
   - nuget restore HotelBookingTests.sln
 after_script:
