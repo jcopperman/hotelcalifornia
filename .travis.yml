@@ -5,4 +5,4 @@ before_install:
 before_script:
   - nuget restore HotelBookingTests.sln
 after_script:
-  - nunit-console /bin/Release/netcoreapp3.0/HotelBookingTests.dll
+  - nunit-console ./bin/Release/netcoreapp3.0/HotelBookingTests.dll

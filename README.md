@@ -17,7 +17,7 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 1. Navigate to the Hotel Booking URL
 2. Verify that the correct landing page is displayed
 
-- **EXPECTED RESULT:** The http://hotel-test.equalexperts.io/ landing page is loaded correctly
+- **EXPECTED RESULT:** The [Website Under Test] landing page is loaded correctly
 - **ACTUAL RESULT:** As expected
 
 #### TEST CASE 002: The intrepid adventurer is able to view existing booking records
@@ -97,6 +97,6 @@ As this web app is hosted for the purpose of assessments no load/performance tes
 ## PART 2: Test Automation with .NET
 
 ### Automation Summary
-Technology: .NET Core project using NUnit and Selenium Webdriver which is deployed through Travis CI
+Technology: .NET Core project using NUnit and Selenium Webdriver which is deployed via Travis CI
 
 
