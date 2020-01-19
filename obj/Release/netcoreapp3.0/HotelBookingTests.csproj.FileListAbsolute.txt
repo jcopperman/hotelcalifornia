@@ -1,13 +1,9 @@
-C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\NUnit3.TestAdapter.dll
-C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\NUnit3.TestAdapter.pdb
-C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\nunit.engine.netstandard.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\HotelBookingTests.deps.json
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\HotelBookingTests.runtimeconfig.json
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\HotelBookingTests.runtimeconfig.dev.json
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\HotelBookingTests.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\HotelBookingTests.pdb
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.DotNet.InternalAbstractions.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -17,7 +13,6 @@ C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.TestPlatform.Utilitie
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\testhost.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
-C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\nunit.framework.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\WebDriver.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -92,3 +87,4 @@ C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.csproj.CopyCo
 C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.dll
 C:\Dev\hotelcalifornia\obj\Release\netcoreapp3.0\HotelBookingTests.pdb
 C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\WebDriver.Support.dll
+C:\Dev\hotelcalifornia\bin\Release\netcoreapp3.0\nunit.framework.dll
