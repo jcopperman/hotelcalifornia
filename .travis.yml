@@ -5,4 +5,4 @@ before_install:
 before_script:
   - nuget restore HotelBookingTests.sln
 after_script:
-  - nunit-console HotelBookingTests.dll
+  - nunit-console NUnitTestProject.dll

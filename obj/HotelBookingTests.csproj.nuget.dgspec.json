@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj": {}
+    "C:\\Users\\outeniquastudios\\Source\\Repos\\hotelcalifornia\\HotelBookingTests.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj": {
+    "C:\\Users\\outeniquastudios\\Source\\Repos\\hotelcalifornia\\HotelBookingTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj",
+        "projectUniqueName": "C:\\Users\\outeniquastudios\\Source\\Repos\\hotelcalifornia\\HotelBookingTests.csproj",
         "projectName": "HotelBookingTests",
-        "projectPath": "C:\\Dev\\hotelcalifornia\\HotelBookingTests.csproj",
+        "projectPath": "C:\\Users\\outeniquastudios\\Source\\Repos\\hotelcalifornia\\HotelBookingTests.csproj",
         "packagesPath": "C:\\Users\\outeniquastudios\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\hotelcalifornia\\obj\\",
+        "outputPath": "C:\\Users\\outeniquastudios\\Source\\Repos\\hotelcalifornia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
